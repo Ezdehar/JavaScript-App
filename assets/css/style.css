@@ -1,21 +1,16 @@
-div {
-	font-family: "Arial", sans-serif;
-	font-size: 14px;
-	background: red;
-	}
-#container{
-	position: absolute;
-	background: red;
-    width: 60%;
-    height: 80%;
-    margin: 40px auto;
-    overflow: auto;
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	text-align: center;
-    }
+html,
+
+body {
+    height: 100%;
+}
+body {
+    text-align: center;
+    background-image: url("file:///Users/ezdeharjaber/Documents/TriviaGame/assets/images/friendscast.jpg");
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    background: red;
+}
+
  #section{
  	padding: 25px 50px;
 }
