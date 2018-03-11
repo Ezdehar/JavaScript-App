@@ -54,14 +54,14 @@ text {
     color: black;
 	}
 button [id="submit"] {
-                 background-color: grey;
-                 padding: 25px 50px;
-                 margin: 100px;
-           		 border: 0;
-                 width: 100px
-                 font-size: 40px;   
-                 cursor pointer: ; 
-        }
+    background-color: grey;
+    padding: 25px 50px;
+    margin: 100px;
+    border: 0;
+    width: 100px
+    font-size: 40px;   
+    cursor pointer: ; 
+    }
           
 
 
