@@ -1,4 +1,4 @@
-# JavaScript
+# JavaScript App
 
 hello world 
 
