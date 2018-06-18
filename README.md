@@ -1,4 +1,4 @@
-# TriviaGame
+# JavaScript
 
 hello world 
 
